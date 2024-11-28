@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 28/11/24
+## Register Number: 24900455
+## Name: Harshul SL
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -9,17 +9,44 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 ## Problem Creater's Organization
 Government of Gujarat
 
-## Idea
+## Idea:_
+_**Alumni Registration & Profile Management:**_
+A seamless and secure registration process that allows alumni to create profiles, manage their personal and professional details, and stay connected with the institution.
+_**Donation Portal:**_
+Implement a simple donation platform integrated with secure payment gateways (credit cards, PayPal, UPI), enabling alumni to contribute towards the college’s projects and initiatives.
+_**Networking Hub:**_
+A networking platform that categorizes alumni based on their profession, location, and interests, creating opportunities for collaboration and mentorship.
+_**Job Portal:**_
+A platform feature that allows alumni to post job openings, browse career opportunities, and interact with employers within the alumni community.
+_**Alumni Directory:**_
+A comprehensive alumni directory with filters for searching alumni based on key criteria (e.g., graduation year, industry, skills).
+_**Success Story Sharing:**_
+A feature for showcasing alumni achievements and contributions to inspire current students and other alumni.
+_**Event Management:**_
+Tools to create, promote, and manage events, reunions, and webinars for the alumni community.
+_**Feedback System:**_
+A system for alumni to provide feedback about the platform and contribute to the future direction of the association.
+## Proposed Solution / Architecture Diagram:
+![{4E70E0A9-0B22-4D97-A3C1-ACDAF0C007C3}](https://github.com/user-attachments/assets/38d4ab10-04c1-4d48-8b04-a0bce4419798)
 
-
-## Proposed Solution / Architecture Diagram
 
 
 ## Use Cases
+![{58C751A5-80C6-454C-B444-4495BE917BAA}](https://github.com/user-attachments/assets/62ba4ec5-7d80-4c81-a409-e8cb37c4aa3a)
 
 
-## Technology Stack
+## Technology Stack:
+Technology Stack:
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: Python (Flask)
+Database: SQLite
+APIs: Google Maps API (optional)
+Authentication: Firebase Authentication
+
 
 
 ## Dependencies
-
+Frontend Development: 15 days.
+Backend Development: 20 days.
+Integration and Testing: 10 days.
+Budget: ₹50,000.
