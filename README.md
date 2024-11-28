@@ -36,17 +36,24 @@ A system for alumni to provide feedback about the platform and contribute to the
 
 
 ## Technology Stack:
-Technology Stack:
+
 Frontend: HTML, CSS, JavaScript, Bootstrap
+
 Backend: Python (Flask)
+
 Database: SQLite
+
 APIs: Google Maps API (optional)
+
 Authentication: Firebase Authentication
 
 
 
 ## Dependencies
 Frontend Development: 15 days.
+
 Backend Development: 20 days.
+
 Integration and Testing: 10 days.
+
 Budget: ₹50,000.
